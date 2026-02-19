@@ -33,11 +33,13 @@
    position: absolute;
    left: 150px;
    top: 100px;
+   z-index: 3;
 }
 
 .card-bottom {
    /* TODO: Add part of your solution here */
-
+   position: absolute;
+   z-index: 1;
 }
 
 .heart {
