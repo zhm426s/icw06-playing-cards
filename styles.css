@@ -41,6 +41,8 @@
 .card-bottom {
    /* TODO: Add part of your solution here */
    position: absolute;
+   left: 240px;
+   top: 120px;
    z-index: 1;
 }
 
